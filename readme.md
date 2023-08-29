@@ -16,7 +16,7 @@ Bu projede kullanılan teknolojiler aşağıda verilmiştir.
 
 Projede kullanılabilir API'ler aşağıda belirtilmiştir:
 
-![Proje Resmi](/Api's.png)
+![Proje Resmi](src/main/resources/Api's.png)
 
 Burada CRUD operasyonu için gereken bütün API'lar bulunmaktadır.
 
