@@ -11,6 +11,7 @@ Bu projede kullanılan teknolojiler aşağıda verilmiştir.
 2. Java versiyonu olarak 1.8 kullanılmıştır.
 3. Arayüz belgeleri oluşturmak, görselleştirmek ve yönetmek için swagger kullanıldı.
 4. API'lerin testi için ayrıyeten postman kullanılabilir.
+5. Veritabanını yönetim sistemi olarak da hibernate kullanılmıştır.
 
 ---
 
